@@ -6,6 +6,7 @@
 # 按类型归类
 * [Javascript](#javascript)
   * [js中数组实现深拷贝的小技巧](https://github.com/front-end-note/notes/issues/2)
+  * [ES6 模块与 CommonJS 模块的差异](https://github.com/front-end-note/notes/issues/3)
 * [Html5](#html5)
 * [Css](#css)
 * [React你不知道的事](#react)
