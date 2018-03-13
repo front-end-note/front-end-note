@@ -4,6 +4,6 @@
 
 # 按类型归类
 
-* [React](#react)
+* [React你不知道的事](#react)
   * [setState的异步机制](https://github.com/front-end-note/notes/issues/1)
 * [Javascript](#javascript)
