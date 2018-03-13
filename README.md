@@ -6,4 +6,5 @@
 
 * [React你不知道的事](#react)
   * [setState的异步机制](https://github.com/front-end-note/notes/issues/1)
+  * [js中数组实现深拷贝的小技巧](https://github.com/front-end-note/notes/issues/2)
 * [Javascript](#javascript)
