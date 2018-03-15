@@ -11,5 +11,5 @@
 * [Css](#css)
 * [React技术栈你不知道的事](#react)
   * [setState的异步机制](https://github.com/front-end-note/notes/issues/1)
-  * [redux源码解读-applyMiddleware](https://github.com/front-end-note/notes/issues/4)
+  * [redux源码解读-applyMiddleware](https://github.com/front-end-note/notes/issues/4)
 * [Vue](#vue)
