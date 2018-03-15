@@ -9,6 +9,7 @@
   * [ES6 模块与 CommonJS 模块的差异](https://github.com/front-end-note/notes/issues/3)
 * [Html5](#html5)
 * [Css](#css)
-* [React你不知道的事](#react)
+* [React技术栈你不知道的事](#react)
   * [setState的异步机制](https://github.com/front-end-note/notes/issues/1)
+  * [redux源码解读-applyMiddleware](https://github.com/front-end-note/notes/issues/4)
 * [Vue](#vue)
