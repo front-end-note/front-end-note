@@ -13,3 +13,7 @@
   * [setState的异步机制](https://github.com/front-end-note/notes/issues/1)
   * [redux源码解读-applyMiddleware](https://github.com/front-end-note/notes/issues/4)
 * [Vue](#vue)
+
+# 加入组织
+
+如果您是希望做笔记的人，如果您是希望做分享的人，那么，我们就是同样的人，欢迎联系我951565664@qq.com，qq群160961532
