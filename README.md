@@ -14,7 +14,7 @@
   * [redux源码解读-applyMiddleware](https://github.com/front-end-note/notes/issues/4)
 * [Vue](#vue)
 * [Git](#git)
-  * [git操作分支](https://github.com/front-end-note/notes/issues/5)
+  * [git操作分支](https://github.com/front-end-note/notes/issues/5)
 
 # 加入组织
 
