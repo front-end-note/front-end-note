@@ -10,6 +10,7 @@
 * [Html5](#html5)
 * [Css](#css)
 * [React技术栈你不知道的事](#react)
+  * [生命周期](https://github.com/front-end-note/notes/issues/6)
   * [setState的异步机制](https://github.com/front-end-note/notes/issues/1)
   * [redux源码解读-applyMiddleware](https://github.com/front-end-note/notes/issues/4)
 * [Vue](#vue)
