@@ -17,7 +17,7 @@
 * [Git](#git)
   * [git操作分支](https://github.com/front-end-note/notes/issues/5)
 * [Others](#others)
-  * [常用英文单词](https://github.com/front-end-note/notes/issues/7)
+  * [常用英文单词](https://github.com/front-end-note/notes/issues/7)
 
 # 加入组织
 
